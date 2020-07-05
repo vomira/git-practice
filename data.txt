@@ -1,0 +1,3 @@
+Name: Mira Vogt
+Age: 25
+Favorite Color: yellow
